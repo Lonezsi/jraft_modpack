@@ -1,0 +1,13 @@
+/tell Heddo whaaat
+/tell Heddo <3
+/tp Heddo Lonezsi
+/locate structure minecraft:bastion_remnant
+/tp @s -400 ~ 112
+/kill @e[distance=0..1]
+/skins
+/tp Heddo
+/tell Heddo igen ^^
+/difficulty
+/tp Heddo Lonezsi
+/skins
+/tp Heddo Lonezsi
