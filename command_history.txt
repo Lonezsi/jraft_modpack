@@ -11,3 +11,12 @@
 /tp Heddo Lonezsi
 /skins
 /tp Heddo Lonezsi
+/locate biome #c:is_cold
+/tp @s 394 72 -562
+/locate biome #sno
+/locate biome #c:is_snowy
+/tp @s 555 136 -1330
+/weather rain
+/locate structure minecraft:village_taiga
+/tp @s -3232 ~ -6288
+/weather thunder
