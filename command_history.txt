@@ -20,3 +20,4 @@
 /locate structure minecraft:village_taiga
 /tp @s -3232 ~ -6288
 /weather thunder
+/give Lonezsi minecraft:command_block
