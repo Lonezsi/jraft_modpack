@@ -1,7 +1,7 @@
 {
   "configVersion": 5,
   "perf": {
-    "maxParticleAmount": 1500,
+    "maxParticleAmount": 500,
     "particleDensity": 100,
     "particleStormDensity": 200,
     "particleDistance": 16,
@@ -23,7 +23,7 @@
     "renderDefaultWeather": false,
     "doDefaultSplashing": false,
     "waterTint": true,
-    "tintMix": 0.6,
+    "tintMix": 1.0,
     "shaderpackTint": true,
     "syncRegistries": true,
     "crossBiomeBorder": false,

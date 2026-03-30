@@ -1,0 +1,17 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "dev.isxander.yacl3.gui.YACLScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "io.gitlab.jfronny.libjf.config.impl.ui.tiny.TinyConfigScreen": true,
+    "net.minecraft.class_5375": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "pigcart.particlerain.config.gui.MainConfigScreen": true,
+    "pigcart.particlerain.config.gui.ConfigScreen": true,
+    "mod.chiselsandbits.client.screens.ToolModeSelectionScreen": true,
+    "io.gitlab.jfronny.libjf.config.impl.ui.tiny.presets.PresetsScreen": true
+  },
+  "hideBackground": {}
+}

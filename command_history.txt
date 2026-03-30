@@ -1,23 +1,50 @@
-/tell Heddo whaaat
-/tell Heddo <3
-/tp Heddo Lonezsi
-/locate structure minecraft:bastion_remnant
-/tp @s -400 ~ 112
-/kill @e[distance=0..1]
-/skins
-/tp Heddo
-/tell Heddo igen ^^
-/difficulty
-/tp Heddo Lonezsi
-/skins
-/tp Heddo Lonezsi
-/locate biome #c:is_cold
-/tp @s 394 72 -562
-/locate biome #sno
-/locate biome #c:is_snowy
-/tp @s 555 136 -1330
-/weather rain
-/locate structure minecraft:village_taiga
-/tp @s -3232 ~ -6288
-/weather thunder
-/give Lonezsi minecraft:command_block
+/tp -287.50 115.00 -46.58
+/fill -287.50 115.00 -46.58 ~ ~ ~ minecraft:polished_blackstone_bricks
+/fill -287 115 -46 ~ ~ ~ minecraft:polished_blackstone_bricks keep
+/tp -277.70 158.00 -45.50
+/tp -277 158.00 -45.50
+/tp -278 158.00 -45.50
+/tp -278 158.00 -45
+/tp -278 158.00 -46
+/tp -278 158 -46
+/fill -278 158 -46 ~ ~ ~ air
+/tp -275.53 138.00 -41.95
+/tp -276 138 -42
+/fill -276 138 -42 ~ ~ ~ minecraft:polished_blackstone_bricks keep
+/kill @e[distance=1..30]
+/tp -262.52 100.00 -57.54
+/tp -262 100.00 -57
+/tp -262 100.00 -56
+/tp -262 100.00 -57
+/tp -263 100.00 -57
+/tp -263 100.00 -58
+/fill -263 100 -58 ~ ~ ~ minecraft:deepslate_bricks
+/fill -264 100 -57 ~ ~ ~ air
+/fill ^ ^ ^ ~ ~ ~ minecraft:mangrove_planks
+/fill ^ ^ ^5 ~ ~ ~ minecraft:mangrove_planks
+/fill ^ ^ ^10 ~ ~ ~ minecraft:mangrove_planks
+/fill ^ ^ ^30 ~ ~ ~ minecraft:mangrove_planks
+/fill -263 100 -58 ~ ~ ~ minecraft:deepslate_bricks
+/fill -264 100 -57 ~ ~ ~ air
+/tp -269.00 109.62 -34.72
+/tp -269 110 -35
+/tp -269 110 -34
+/tp -269 110 -35
+/tp -270 110 -35
+/fill -270 110 -35 ~ ~ ~ minecraft:mangrove_planks
+/fill -270 111 -35 ~ ~ ~ air
+/fill -270 110 -35 ~ ~ ~ air
+/fill -270 109 -35 ~ ~ ~ air
+/tp -269.29 100.00 -34.50
+/tp -269 100 -35
+/tp -269 100 -34
+/tp -268 100 -35
+/tp -270 100 -35
+/fill -270 100 -35 ~ ~ ~ air
+/tp -279.33 -20.00 -32.41
+/tp -280 -20.00 -32
+/tp -280 -20.00 -33
+/fill -280 -20.00 -33 ~ ~ ~ air
+/fill -280 -20 -33 ~ ~ ~ air
+/kill @e[distance=1..30]
+/kill @e[distance=1..5]
