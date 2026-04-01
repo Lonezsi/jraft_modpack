@@ -1,8 +1,6 @@
 /data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
 /data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64}]}
 /data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
 /data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
 /data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
 /data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:512}]}
@@ -48,3 +46,5 @@
 /experience add Lonezsi 19 levels
 /experience add Lonezsi 5 levels
 /skins
+/skinsrestorer reload
+/skinsrestorer dump
