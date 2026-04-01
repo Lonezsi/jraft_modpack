@@ -1,0 +1,30 @@
+filename = 'item-rename-1.3.1+1.21.11.jar'
+name = 'Item Rename'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.10',
+    '1.21.10',
+    '1.21.11',
+    '1.21.11',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1+1.21.11'
+
+[download]
+hash = '02da3344ee8fc63bdc0e0ef6348ed3e21c84b3ef3466cfaef5a12ec90f9b19b9686f3128a5c87df9d14c611ffca37f489d22a6736584d206b6f4a16bbaeac9e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mCz2zJpj/versions/ZdKgl5Mq/item-rename-1.3.1%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'mCz2zJpj'
+version = 'ZdKgl5Mq'

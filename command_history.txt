@@ -1,50 +1,50 @@
-/tp -287.50 115.00 -46.58
-/fill -287.50 115.00 -46.58 ~ ~ ~ minecraft:polished_blackstone_bricks
-/fill -287 115 -46 ~ ~ ~ minecraft:polished_blackstone_bricks keep
-/tp -277.70 158.00 -45.50
-/tp -277 158.00 -45.50
-/tp -278 158.00 -45.50
-/tp -278 158.00 -45
-/tp -278 158.00 -46
-/tp -278 158 -46
-/fill -278 158 -46 ~ ~ ~ air
-/tp -275.53 138.00 -41.95
-/tp -276 138 -42
-/fill -276 138 -42 ~ ~ ~ minecraft:polished_blackstone_bricks keep
-/kill @e[distance=1..30]
-/tp -262.52 100.00 -57.54
-/tp -262 100.00 -57
-/tp -262 100.00 -56
-/tp -262 100.00 -57
-/tp -263 100.00 -57
-/tp -263 100.00 -58
-/fill -263 100 -58 ~ ~ ~ minecraft:deepslate_bricks
-/fill -264 100 -57 ~ ~ ~ air
-/fill ^ ^ ^ ~ ~ ~ minecraft:mangrove_planks
-/fill ^ ^ ^5 ~ ~ ~ minecraft:mangrove_planks
-/fill ^ ^ ^10 ~ ~ ~ minecraft:mangrove_planks
-/fill ^ ^ ^30 ~ ~ ~ minecraft:mangrove_planks
-/fill -263 100 -58 ~ ~ ~ minecraft:deepslate_bricks
-/fill -264 100 -57 ~ ~ ~ air
-/tp -269.00 109.62 -34.72
-/tp -269 110 -35
-/tp -269 110 -34
-/tp -269 110 -35
-/tp -270 110 -35
-/fill -270 110 -35 ~ ~ ~ minecraft:mangrove_planks
-/fill -270 111 -35 ~ ~ ~ air
-/fill -270 110 -35 ~ ~ ~ air
-/fill -270 109 -35 ~ ~ ~ air
-/tp -269.29 100.00 -34.50
-/tp -269 100 -35
-/tp -269 100 -34
-/tp -268 100 -35
-/tp -270 100 -35
-/fill -270 100 -35 ~ ~ ~ air
-/tp -279.33 -20.00 -32.41
-/tp -280 -20.00 -32
-/tp -280 -20.00 -33
-/fill -280 -20.00 -33 ~ ~ ~ air
-/fill -280 -20 -33 ~ ~ ~ air
-/kill @e[distance=1..30]
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:512}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
 /kill @e[distance=1..5]
+/experience add Lonezsi 15 levels
+/give Lonezsi minecraft:leather 10
+/experience add Lonezsi 15 levels
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/kill ef8da1a8-9bf2-49d7-ab2f-edabf8bcfc0a
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {FoodLevel:0}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] FoodLevel
+/tick rate 500
+/tick rate 20
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/kill 30143399-3b85-4c4f-b433-1186333122b3
+/kill 5c9ff3a1-5686-4a95-a6a3-0f33dcb6d3bd
+/tick rate 500
+/tick rate 20
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/give Lonezsi minecraft:command_block
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/gamerule command_block_output false
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
+/tick rate 50
+/tick rate 500
+/tick rate 1000
+/tick rate 20
+/weather clear
+/experience add Lonezsi 19 levels
+/experience add Lonezsi 5 levels
+/skins

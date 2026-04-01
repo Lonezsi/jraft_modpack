@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","minecraft:physicsmod","subtle_effects:biome_color_water_particles","rprenames:vanillish","file/Low Fire.zip","file/Visual Armor Trim Descriptions.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/TooManyRenamesV19.9.zip","file/Refined Buckets 2.2.1.zip","file/Os\u0027 Colorful Grasses (Short and Fluffy).zip","file/Lonezsi\u0027s flowers3.zip","file/Better-Leaves-9.5.zip","file/Alternative Rain Sounds 1.21.9-1.21.11.zip","file/AL\u0027s Armor Stands Revamped.zip","file/BabyAnimalBackportV2.0.zip","elytratrails:arrowtrails","elytratrails:allaytrails","file/Bushier Kelp.zip","file/Beautiful Enchanted Books - MC 1.21.10 - 8.0.0.zip","file/Fancy Crops v1.3.zip","file/Fresh Food 1.3.3.zip","file/Fresh Flowers and Plants 1.4.2.zip","file/FA+All_Extensions-v1.8.zip","file/FreshAnimations_v1.10.4.zip","file/HEVI FreshAni Activator.zip","file/HumanEraVillagersIllagers[3.9].zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip","file/HyperPunchy-v2.4+.zip","file/Refined Torches 1.1.zip"]
+resourcePacks:["vanilla","minecraft:physicsmod","subtle_effects:biome_color_water_particles","rprenames:vanillish","file/Low Fire.zip","file/Visual Armor Trim Descriptions.zip","file/TooManyRenamesV19.9.zip","file/Refined Buckets 2.2.1.zip","file/Os\u0027 Colorful Grasses (Short and Fluffy).zip","file/Better-Leaves-9.5.zip","file/Alternative Rain Sounds 1.21.9-1.21.11.zip","file/AL\u0027s Armor Stands Revamped.zip","file/BabyAnimalBackportV2.0.zip","elytratrails:arrowtrails","elytratrails:allaytrails","file/enchant-icons-1.21.11-v1.3.zip","file/Fancy Crops v1.3.zip","file/Fresh Seeds 1.3.zip","file/Fresh Food 1.3.3.zip","file/Fresh Flowers and Plants 1.4.2.zip","file/FreshAnimations_v1.10.5.zip","file/FA+All_Extensions-v1.8.zip","file/FA+Player-v1.0.zip","file/HEVI FreshAni Activator.zip","file/HumanEraVillagersIllagers[3.9].zip","file/HyperPunchy-v2.4+.zip","file/Weskerson\u0027s Torches.zip","file/§aBetter Fresher 3D Books v1.5.zip","file/§a§lVocal Villagers §r§71.2.zip","continuity:default","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Lonezsi\u0027s flowers3.zip","continuity:glass_pane_culling_fix","file/Bushier Kelp.zip"]
 incompatibleResourcePacks:[]
 lastServer:noodlefish.aternos.host:18903
 lang:en_us
@@ -184,6 +184,8 @@ key_key.elytratrails.continuous_twirl_r:key.keyboard.unknown
 key_key.elytratrails.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
 key_keybind.invmove.toggleMove:key.keyboard.unknown
+key_key.ipla.place_item_key:key.keyboard.v
+key_key.ipla.rotate_item_key:key.keyboard.left.alt
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
@@ -214,12 +216,12 @@ key_key.punchy.tuning.save:key.keyboard.unknown
 key_key.punchy.tuning.reset:key.keyboard.unknown
 key_key.punchy.tuning.mirror:key.keyboard.unknown
 key_key.punchy.inspect:key.keyboard.g
-key_key.push_to_talk:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.v
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.v
+key_key.voice_chat:key.keyboard.right.control
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
