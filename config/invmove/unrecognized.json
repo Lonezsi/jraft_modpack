@@ -29,7 +29,8 @@
     "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
     "yourdailymodder.weaponmaster.gui.WeaponMasterScreen": true,
     "yourdailymodder.weaponmaster.gui.DetailedSettingsScreen": true,
-    "yourdailymodder.weaponmaster.gui.EditTextListScreen": true
+    "yourdailymodder.weaponmaster.gui.EditTextListScreen": true,
+    "pigcart.particlerain.config.gui.ParticleEditScreen": true
   },
   "hideBackground": {
     "mod.chiselsandbits.client.screens.ModificationTableScreen": true,

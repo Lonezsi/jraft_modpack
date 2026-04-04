@@ -1,10 +1,9 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block/kelp_plant_0", "y": 0 },
-      { "model": "minecraft:block/kelp_plant_1", "y": 90 },
-      { "model": "minecraft:block/kelp_plant_2", "y": 180 },
-      { "model": "minecraft:block/kelp_plant_1", "y": 270 }
+      { "model": "block/kelp_plant_0", "weight": 30 },
+      { "model": "block/kelp_plant_1", "weight": 3 },
+      { "model": "block/kelp_plant_2", "weight": 1 }
     ]
   }
 }

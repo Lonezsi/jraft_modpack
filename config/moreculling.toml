@@ -1,10 +1,10 @@
 version = 1
 enableSodiumMenu = true
 dontCull = []
-cloudCulling = true
+cloudCulling = false
 signTextCulling = true
-rainCulling = true
-useBlockStateCulling = true
+rainCulling = false
+useBlockStateCulling = false
 useCustomItemFrameRenderer = true
 itemFrameMapCulling = true
 useItemFrameLOD = true
@@ -20,4 +20,6 @@ beaconBeamCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+chiselsandbits = true
+ipla = true
 minecraft = true

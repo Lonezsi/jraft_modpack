@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"textures": {
 		"3": "block/kelp_plant",
-		"4": "block/kelp_leaf_large_berries",
+		"4": "block/kelp_leaf_large_berries_1",
 		"5": "block/bamboo_large_leaves",
 		"particle": "block/bamboo_large_leaves"
 	},

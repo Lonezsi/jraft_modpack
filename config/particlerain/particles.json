@@ -1,7 +1,10 @@
 {
   "rain": {},
   "heavy_dust": {},
-  "mist_after_rain": {},
+  "mist_after_rain": {
+    "enabled": false,
+    "density": 0.036000002
+  },
   "ripple": {},
   "snow": {},
   "splatter": {},

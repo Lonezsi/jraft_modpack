@@ -1,32 +1,3 @@
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64},{id:"minecraft:potato",Count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:512}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/kill @e[distance=1..5]
-/experience add Lonezsi 15 levels
-/give Lonezsi minecraft:leather 10
-/experience add Lonezsi 15 levels
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/kill ef8da1a8-9bf2-49d7-ab2f-edabf8bcfc0a
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {FoodLevel:0}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] FoodLevel
-/tick rate 500
-/tick rate 20
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
 /kill 30143399-3b85-4c4f-b433-1186333122b3
 /kill 5c9ff3a1-5686-4a95-a6a3-0f33dcb6d3bd
 /tick rate 500
@@ -48,3 +19,32 @@
 /skins
 /skinsrestorer reload
 /skinsrestorer dump
+/weather clear
+/time set night
+/time set 2000
+/time set 20000
+/time set 2000
+/time set 20000
+/time set 2000
+/time set 20000
+/weather clear
+/weather rain
+/weather clear
+/time set 20000
+/weather rain
+/weather clear
+/time set 20000
+/weather rain
+/weather clear
+/data get entity dfce332e-a280-43e3-b964-47a088caf369 health
+/data get entity dfce332e-a280-43e3-b964-47a088caf369 Health
+/data get entity 0f1fcae1-1884-4e8e-a74b-9403e0b2b6cb Health
+/kill @e[type=minecraft:zombie,distance=0..30]
+/kill @e[type=minecraft:drowned,distance=0..30]
+/kill @e[type=minecraft:zombie,distance=0..30]
+/kill @e[type=minecraft:drowned,distance=0..30]
+/kill @e[type=minecraft:zombie,distance=0..30]
+/time set night
+/time set 2000
+/time set 20000
+/weather clear
