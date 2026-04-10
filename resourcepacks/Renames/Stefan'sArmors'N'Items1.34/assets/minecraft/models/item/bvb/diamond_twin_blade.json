@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bvb/twin_blade",
+	"textures": {
+		"2": "minecraft:item/bvb/diamond_twin_blade",
+		"particle": "minecraft:item/bvb/diamond_twin_blade"
+  }
+}

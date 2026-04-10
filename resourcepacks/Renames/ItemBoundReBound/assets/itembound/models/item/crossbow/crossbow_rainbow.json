@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/16xcrossbow",
+  "textures": {
+    "texture": "itembound:item/crossbow/crossbow_rainbow"
+	}
+}

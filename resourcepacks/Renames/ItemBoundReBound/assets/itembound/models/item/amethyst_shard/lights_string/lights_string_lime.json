@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/lights_string_base",
+  "textures": {
+    "texture": "itembound:item/amethyst_shard/lights_string/lights_string_lime"
+  }
+}

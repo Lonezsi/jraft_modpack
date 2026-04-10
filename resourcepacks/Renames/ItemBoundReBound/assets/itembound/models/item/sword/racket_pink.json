@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/16xhandheld",
+	"textures": {
+		"texture": "itembound:item/sword/racket_pink"
+	}
+}

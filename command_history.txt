@@ -1,50 +1,50 @@
-/kill 30143399-3b85-4c4f-b433-1186333122b3
-/kill 5c9ff3a1-5686-4a95-a6a3-0f33dcb6d3bd
-/tick rate 500
-/tick rate 20
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[{id:"minecraft:potato",count:64}]}
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/give Lonezsi minecraft:command_block
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/gamerule command_block_output false
-/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Inventory
-/tick rate 50
-/tick rate 500
-/tick rate 1000
-/tick rate 20
+/kill @e[type=minecraft:drowned,distance=0..30]
+/kill @e[type=minecraft:zombie,distance=0..30]
+/kill @e[type=minecraft:drowned,distance=0..30]
+/kill @e[type=minecraft:zombie,distance=0..30]
+/time set night
+/time set 2000
+/time set 20000
 /weather clear
-/experience add Lonezsi 19 levels
-/experience add Lonezsi 5 levels
 /skins
-/skinsrestorer reload
-/skinsrestorer dump
 /weather clear
+/tick
+/tick query
+/experience add Lonezsi 20 levels
+/data get entity 11f5d5e1-4d5f-4b3d-a1c3-5344eedf0b85 Trade
+/data get entity 11f5d5e1-4d5f-4b3d-a1c3-5344eedf0b85 trade
+/data get entity 11f5d5e1-4d5f-4b3d-a1c3-5344eedf0b85
+/data remove entity 11f5d5e1-4d5f-4b3d-a1c3-5344eedf0b85
+/data get entity @p SelectedItem
+/data modify entity @p SelectedItem.tag.RepairCost set value 0
+/data modify entity @p SelectedItem.tag.RepairCost set value 0b
+/data get entity @p SelectedItem
+/data modify entity @p SelectedItem.tag.repair_cost set value 0b
+/data modify entity @p SelectedItem.components.repair_cost set value 0b
+/data modify entity @p SelectedItem.repair_cost set value 0b
+/data modify entity @p SelectedItem.components.minecraft:repair_cost set value 0b
+/data modify entity @p SelectedItem.components.minecraft:repair_cost set value 0
+/data modify entity @p SelectedItem.components.minecraft:repair_cost set value 0f
+/data modify entity @p weapon.mainhand{"minecraft:repair_cost":0}
+/item modify entity Lonezsi container.3 {"minecraft:repair_cost":0}
+/item modify entity Lonezsi container.3 "minecraft:repair_cost"
+/item modify entity Lonezsi container.3 {"minecraft:repair_cost":0b}
+/item modify entity Lonezsi hotbar.3 {"minecraft:repair_cost":0}
+/item modify entity Lonezsi hotbar.3 {funtion: "set_components", components: {"minecraft:repair_cost":0}}
+/item modify entity @p hotbar.3 {function:"minecraft:set_components",components:{"minecraft:repair_cost":0}}
+/item modify entity @p hotbar.2 {function:"minecraft:set_components",components:{"minecraft:repair_cost":0}}
+/experience add Lonezsi 20 levels
+/item modify entity @p hotbar.2 {function:"minecraft:set_components",components:{"minecraft:repair_cost":0}}
+/give Lonezsi minecraft:lapis_lazuli 64
+/experience add Lonezsi 20 levels
+/item modify entity @p hotbar.2 {function:"minecraft:set_components",components:{"minecraft:repair_cost":0}}
+/experience add Lonezsi 35 levels
+/summon minecraft:wandering_trader
+/time set day
+/summon minecraft:wandering_trader
+/summon minecraft:copper_golem
+/time set day
 /time set night
-/time set 2000
-/time set 20000
-/time set 2000
-/time set 20000
-/time set 2000
-/time set 20000
-/weather clear
-/weather rain
-/weather clear
-/time set 20000
-/weather rain
-/weather clear
-/time set 20000
-/weather rain
-/weather clear
-/data get entity dfce332e-a280-43e3-b964-47a088caf369 health
-/data get entity dfce332e-a280-43e3-b964-47a088caf369 Health
-/data get entity 0f1fcae1-1884-4e8e-a74b-9403e0b2b6cb Health
-/kill @e[type=minecraft:zombie,distance=0..30]
-/kill @e[type=minecraft:drowned,distance=0..30]
-/kill @e[type=minecraft:zombie,distance=0..30]
-/kill @e[type=minecraft:drowned,distance=0..30]
-/kill @e[type=minecraft:zombie,distance=0..30]
+/kill 469d22bc-4301-4091-97c5-ed8006f61559
+/data get entity 69ed7b8b-6384-47aa-9535-d79c721d844f
 /time set night
-/time set 2000
-/time set 20000
-/weather clear

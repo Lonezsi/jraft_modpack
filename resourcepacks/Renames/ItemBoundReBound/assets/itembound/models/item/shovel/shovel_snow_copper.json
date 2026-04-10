@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/16xhandheld",
+  "textures": {
+    "texture": "itembound:item/shovel/shovel_snow_copper"
+  }
+}

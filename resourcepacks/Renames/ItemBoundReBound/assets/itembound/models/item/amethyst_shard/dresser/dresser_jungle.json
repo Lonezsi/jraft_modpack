@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/dresser_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/dresser/dresser_jungle"
+	}
+}

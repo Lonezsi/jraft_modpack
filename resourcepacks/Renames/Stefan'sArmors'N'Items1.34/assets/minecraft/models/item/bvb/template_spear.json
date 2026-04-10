@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bvb/spear",
+	"textures": {
+		"0": "minecraft:item/bvb/template_spear",
+		"particle": "minecraft:item/bvb/template_spear"
+  }
+}

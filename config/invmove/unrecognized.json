@@ -30,7 +30,12 @@
     "yourdailymodder.weaponmaster.gui.WeaponMasterScreen": true,
     "yourdailymodder.weaponmaster.gui.DetailedSettingsScreen": true,
     "yourdailymodder.weaponmaster.gui.EditTextListScreen": true,
-    "pigcart.particlerain.config.gui.ParticleEditScreen": true
+    "pigcart.particlerain.config.gui.ParticleEditScreen": true,
+    "dev.imb11.sounds.gui.SoundsConfigScreen": true,
+    "net.minecraft.class_410": true,
+    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true,
+    "io.github.fishstiz.packed_packs.gui.screens.PackedPacksScreen": true,
+    "net.diebuddies.physics.settings.vines.VineSettingsScreen": true
   },
   "hideBackground": {
     "mod.chiselsandbits.client.screens.ModificationTableScreen": true,

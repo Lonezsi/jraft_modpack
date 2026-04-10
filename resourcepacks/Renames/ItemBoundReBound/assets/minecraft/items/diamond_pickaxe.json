@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "minecraft:select",
+	"property": "minecraft:component",
+	"component": "minecraft:custom_name",
+    "cases": [
+      {
+		"when": "Glass Pickaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "itembound:item/pickaxe/pickaxe_glass"
+        }
+      },
+      {
+		"when": "Fork",
+        "model": {
+          "type": "minecraft:model",
+          "model": "itembound:item/pickaxe/fork"
+        }
+      },
+      {
+		"when": "Drill",
+        "model": {
+          "type": "minecraft:model",
+          "model": "itembound:item/pickaxe/drill_diamond"
+        }
+      },
+      {
+				"when": "Jackhammer",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/pickaxe/jackhammer_diamond_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/pickaxe/jackhammer_diamond"
+					}
+					}
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_pickaxe"
+    }
+  }
+}

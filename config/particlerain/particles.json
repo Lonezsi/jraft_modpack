@@ -1,5 +1,9 @@
 {
-  "rain": {},
+  "rain": {
+    "density": 0.275,
+    "opacity": 0.089999996,
+    "tintType": "FOG"
+  },
   "heavy_dust": {},
   "mist_after_rain": {
     "enabled": false,

@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/blockshieldblocking",
+	"textures": {
+		"texture": "itembound:item/shield/shield_log_pale_oak"
+	}
+}

@@ -1,6 +1,6 @@
 {
   "devMode": false,
-  "showActionBar": false,
+  "showActionBar": true,
   "hideIncompatible": false,
   "sort": "VANILLA",
   "resourcepacks": {
@@ -9,7 +9,9 @@
     "hideIncompatibleWarnings": false,
     "additionalFolders": [],
     "rememberLastViewedProfile": false,
-    "profileOrder": []
+    "profileOrder": [
+      "main-2026-04-06_14-12-37.953"
+    ]
   },
   "datapacks": {
     "replaceOriginal": true,

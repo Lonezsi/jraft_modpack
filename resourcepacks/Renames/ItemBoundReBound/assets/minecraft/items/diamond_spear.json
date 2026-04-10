@@ -1,0 +1,98 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [ {
+				"when": "Trident",
+				"model": {
+					"type": "minecraft:select",
+					"cases": [ {
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/spear/trident_diamond"
+						},
+						"when": [
+							"gui",
+							"ground",
+							"fixed",
+							"on_shelf"
+						]
+					} ],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "itembound:item/spear/trident_diamond_in_hand"
+					},
+					"property": "minecraft:display_context"
+				}
+		},
+		{
+				"when": "Pearl Trident",
+				"model": {
+					"type": "minecraft:select",
+					"cases": [ {
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/spear/pearl_trident"
+						},
+						"when": [
+							"gui",
+							"ground",
+							"fixed",
+							"on_shelf"
+						]
+					} ],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "itembound:item/spear/pearl_trident_in_hand"
+					},
+					"property": "minecraft:display_context"
+				}
+		},
+		{
+				"when": "Pearl Spear",
+				"model": {
+					"type": "minecraft:select",
+					"cases": [ {
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/spear/pearl_spear"
+						},
+						"when": [
+							"gui",
+							"ground",
+							"fixed",
+							"on_shelf"
+						]
+					} ],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "itembound:item/spear/pearl_spear_in_hand"
+					},
+					"property": "minecraft:display_context"
+				}
+		}
+		],
+		"fallback": {
+			"type": "minecraft:select",
+			"cases": [ {
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_spear"
+				},
+				"when": [
+					"gui",
+					"ground",
+					"fixed",
+					"on_shelf"
+				]
+			} ],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/diamond_spear_in_hand"
+			},
+			"property": "minecraft:display_context"
+		}
+	},
+	"swap_animation_scale": 1.95
+}

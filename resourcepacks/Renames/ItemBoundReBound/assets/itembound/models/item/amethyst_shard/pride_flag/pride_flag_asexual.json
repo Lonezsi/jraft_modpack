@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/64xtile",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/pride_flag/pride_flag_asexual"
+	}
+}

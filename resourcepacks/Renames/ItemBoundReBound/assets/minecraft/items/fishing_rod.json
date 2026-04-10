@@ -1,0 +1,320 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [ {
+			"when": "Candy Rod",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_candy"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_candy_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Undying Rod",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_undying"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_undying_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Twig Rod",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_twig"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_twig_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Blaze Rod",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_blaze"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/rod_blaze_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Black Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_black"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_black_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Blue Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_blue"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_blue_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Brown Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_brown"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_brown_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Cyan Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_cyan"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_cyan_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": [ "Gray Spinner", "Grey Spinner" ],
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_gray"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_gray_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Green Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_green"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_green_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Light Blue Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_lblue"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_lblue_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": [ "Light Gray Spinner", "Light Grey Spinner" ],
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_lgray"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_lgray_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Lime Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_lime"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_lime_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Magenta Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_magenta"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_magenta_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Orange Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_orange"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_orange_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Pink Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_pink"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_pink_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Purple Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_purple"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_purple_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Red Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_red"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_red_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "White Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_white"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_white_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		},
+		{
+			"when": "Yellow Spinner",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_yellow"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/fishing_rod/spinner_yellow_cast"
+				},
+				"property": "minecraft:fishing_rod/cast"
+			}
+		}
+		],
+		"fallback": {
+			"type": "minecraft:condition",
+			"on_false": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/fishing_rod"
+			},
+			"on_true": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/fishing_rod_cast"
+			},
+			"property": "minecraft:fishing_rod/cast"
+		}
+	}
+}

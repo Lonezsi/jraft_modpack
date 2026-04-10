@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/32xshield",
+	"textures": {
+		"texture": "itembound:item/shield/pride_shield_two_spirit"
+	}
+}

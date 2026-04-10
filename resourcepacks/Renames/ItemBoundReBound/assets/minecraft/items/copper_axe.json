@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:select",
+	"property": "minecraft:component",
+	"component": "minecraft:custom_name",
+    "cases": [
+      {
+		"when": "Glass Axe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "itembound:item/axe/axe_glass"
+        }
+      },
+      {
+		"when": "Green Axe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "itembound:item/axe/axe_green"
+        }
+      },
+      {
+		"when": "Chainsaw",
+        "model": {
+          "type": "minecraft:model",
+          "model": "itembound:item/axe/chainsaw_copper"
+        }
+      },
+      {
+				"when": "Scythe",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/axe/scythe_copper_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/axe/scythe_copper"
+					}
+					}
+      },
+      {
+		"when": "Battle Axe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "itembound:item/axe/axe_battle_copper"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/copper_axe"
+    }
+  }
+}

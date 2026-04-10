@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/blockshieldblocking",
+	"textures": {
+		"texture": "itembound:item/shield/shield_stem_crimson"
+	}
+}

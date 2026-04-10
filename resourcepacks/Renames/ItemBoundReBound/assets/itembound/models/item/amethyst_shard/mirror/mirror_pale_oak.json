@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/mirror_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/mirror/mirror_pale_oak"
+	}
+}

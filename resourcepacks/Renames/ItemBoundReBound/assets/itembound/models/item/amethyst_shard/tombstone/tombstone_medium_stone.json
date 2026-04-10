@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/tombstone_medium_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/tombstone/tombstone_medium_stone"
+	}
+}

@@ -1,0 +1,707 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+				{
+				"when": "Twig",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/twig"
+					}
+				},
+				{
+				"when": "Garnet Gauntlet",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/garnet_gauntlet"
+					}
+				},
+				{
+				"when": "Garnet Knuckle",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/garnet_knuckle"
+					}
+				},
+				{
+				"when": "Rose Sword",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/sword_rose_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_rose"
+					}
+					}
+				},
+				{
+				"when": "Amethyst Flail",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/amethyst_flail_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/amethyst_flail"
+					}
+					}
+				},
+				{
+				"when": "Amethyst Whip",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/amethyst_whip_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/amethyst_whip"
+					}
+					}
+				},
+				{
+				"when": "Master Sword",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/master_sword_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/master_sword"
+					}
+					}
+				},
+				{
+				"when": "Microphone",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/microphone"
+					}
+				},
+				{
+				"when": "Brick",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/brick"
+					}
+				},
+				{
+				"when": "Knife",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/knife"
+					}
+				},
+				{
+				"when": "Butterscotch Candy Cane",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/candycane_butterscotch"
+					}
+				},
+				{
+				"when": "Peppermint Candy Cane",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/candycane_peppermint"
+					}
+				},
+				{
+				"when": "Spearmint Candy Cane",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/candycane_spearmint"
+					}
+				},
+				{
+				"when": "White Quill",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/quill_white"
+					}
+				},
+				{
+				"when": "Black Quill",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/quill_black"
+					}
+				},
+				{
+				"when": "Brown Quill",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/quill_brown"
+					}
+				},
+				{
+				"when": "Golden Quill",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/quill_copper"
+					}
+				},
+				{
+				"when": "Iron Bat",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/bat_iron"
+					}
+				},
+				{
+				"when": "Wooden Bat",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/bat_wooden"
+					}
+				},
+				{
+				"when": "Nether Brick",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/brick_nether"
+					}
+				},
+				{
+				"when": "Blue Pencil",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pencil_blue"
+					}
+				},
+				{
+				"when": "Green Pencil",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pencil_green"
+					}
+				},
+				{
+				"when": "Red Pencil",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pencil_red"
+					}
+				},
+				{
+				"when": "Yellow Pencil",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pencil_yellow"
+					}
+				},
+				{
+				"when": "Purple Paintbrush",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/paintbrush_purple"
+					}
+				},
+				{
+				"when": "Green Paintbrush",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/paintbrush_green"
+					}
+				},
+				{
+				"when": "Red Paintbrush",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/paintbrush_red"
+					}
+				},
+				{
+				"when": "Yellow Paintbrush",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/paintbrush_yellow"
+					}
+				},
+				{
+				"when": "Blue Paintbrush",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/paintbrush_blue"
+					}
+				},
+				{
+				"when": "Pink Pinwheel",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pinwheel_pink"
+					}
+				},
+				{
+				"when": "Green Pinwheel",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pinwheel_green"
+					}
+				},
+				{
+				"when": "Red Pinwheel",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pinwheel_red"
+					}
+				},
+				{
+				"when": "Yellow Pinwheel",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pinwheel_yellow"
+					}
+				},
+				{
+				"when": "Blue Pinwheel",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/pinwheel_blue"
+					}
+				},
+				{
+				"when": "Amethyst Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_amethyst"
+					}
+				},
+				{
+				"when": "Bedrock Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_bedrock"
+					}
+				},
+				{
+				"when": "Crying Obsidian Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_cobsidian"
+					}
+				},
+				{
+				"when": "Emerald Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_emerald"
+					}
+				},
+				{
+				"when": "Glass Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_glass"
+					}
+				},
+				{
+				"when": "Magma Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_magma"
+					}
+				},
+				{
+				"when": "Quartz Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_quartz"
+					}
+				},
+				{
+				"when": "Rainbow Sword",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sword_rainbow"
+					}
+				},
+				{
+				"when": "Darksaber",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/lightsaber_dark"
+					}
+				},
+				{
+				"when": "Blue Lightsaber",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/lightsaber_blue"
+					}
+				},
+				{
+				"when": "Green Lightsaber",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/lightsaber_green"
+					}
+				},
+				{
+				"when": "Purple Lightsaber",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/lightsaber_purple"
+					}
+				},
+				{
+				"when": "Red Lightsaber",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/lightsaber_red"
+					}
+				},
+				{
+				"when": "White Lightsaber",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/lightsaber_white"
+					}
+				},
+				{
+				"when": "Yellow Lightsaber",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/lightsaber_yellow"
+					}
+				},
+				{
+				"when": "Dagger",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/dagger_copper_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/dagger_copper"
+					}
+					}
+				},
+				{
+				"when": "Katana",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/katana_copper_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/katana_copper"
+					}
+					}
+				},
+				{
+				"when": "Longsword",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/longsword_copper_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/longsword_copper"
+					}
+					}
+				},
+				{
+				"when": "Nunchuck",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/nunchuck_copper"
+					}
+				},
+				{
+				"when": "Rapier",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/rapier_copper"
+					}
+				},
+				{
+				"when": "Green Candle",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/candle_green_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/candle_green"
+					}
+					}
+				},
+				{
+				"when": "White Candle",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/candle_white_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/candle_white"
+					}
+					}
+				},
+				{
+				"when": "Red Candle",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/candle_red_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/candle_red"
+					}
+					}
+				},
+				{
+				"when": "Hot Knife",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/hot_knife"
+					}
+				},
+		{
+			"when": "Black Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_black"
+			}
+		},
+		{
+			"when": "Blue Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_blue"
+			}
+		},
+		{
+			"when": "Brown Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_brown"
+			}
+		},
+		{
+			"when": "Cyan Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_cyan"
+			}
+		},
+		{
+			"when": "Green Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_green"
+			}
+		},
+		{
+			"when": "Light Blue Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_lblue"
+			}
+		},
+		{
+			"when": "Lime Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_lime"
+			}
+		},
+		{
+			"when": "Magenta Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_magenta"
+			}
+		},
+		{
+			"when": "Orange Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_orange"
+			}
+		},
+		{
+			"when": "Pink Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_pink"
+			}
+		},
+		{
+			"when": "Purple Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_purple"
+			}
+		},
+		{
+			"when": "Red Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_red"
+			}
+		},
+		{
+			"when": "White Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_white"
+			}
+		},
+		{
+			"when": "Yellow Racket",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/sword/racket_yellow"
+			}
+		},
+				{
+				"when": "Work Sign",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/sign_work_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sign_work"
+					}
+					}
+				},
+				{
+				"when": "Stop Sign",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/sign_stop_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sign_stop"
+					}
+					}
+				},
+				{
+				"when": "Bus Sign",
+				"model": {
+				"type": "minecraft:select",
+				"property": "minecraft:display_context",
+				"cases": [
+					{
+					"when": "gui",
+					"model": {
+						"type": "minecraft:model",
+						"model": "itembound:item/sword/sign_bus_gui"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "itembound:item/sword/sign_bus"
+					}
+					}
+				}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/copper_sword"
+		}
+	}
+}

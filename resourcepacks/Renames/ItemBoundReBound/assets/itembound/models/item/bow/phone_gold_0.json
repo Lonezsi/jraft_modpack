@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/16xgun",
+  "textures": {
+    "texture": "itembound:item/bow/phone_gold_0"
+	}
+}

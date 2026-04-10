@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/mirror_standing_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_warped"
+	}
+}

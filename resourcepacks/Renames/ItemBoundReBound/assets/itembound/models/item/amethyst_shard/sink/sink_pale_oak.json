@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/sink_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/sink/sink_pale_oak"
+	}
+}

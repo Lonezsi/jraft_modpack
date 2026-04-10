@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/nightstand_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/nightstand/nightstand_bamboo"
+	}
+}

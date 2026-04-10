@@ -1,0 +1,17 @@
+filename = 'immersiveoverlays-1.5.3+1.21.11-fabric.jar'
+name = 'Immersive Overlays'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.3+1.21.11-fabric'
+
+[download]
+hash = '1ef808525b28a39adda0b3158acb0703ec35fa12c814545fc62a1d9cde94b2315e447413128a3fcefbecb66423e4a35d6428dfb7d11aea4935af554d5ff19024'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PKoLkD98/versions/z6UsX8rg/immersiveoverlays-1.5.3%2B1.21.11-fabric.jar'
+
+[update.modrinth]
+mod-id = 'PKoLkD98'
+version = 'z6UsX8rg'

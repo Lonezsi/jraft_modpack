@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/lantern_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/lantern/lantern_end"
+	}
+}

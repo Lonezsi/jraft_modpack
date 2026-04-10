@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/planter_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/planter/planter_oak"
+	}
+}

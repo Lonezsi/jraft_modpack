@@ -1,0 +1,7 @@
+{
+  "parent": "itembound:sources/16xitem",
+  "textures": {
+    "texture": "itembound:item/potion/daiquiri_drink",
+    "overlay": "itembound:item/potion/daiquiri_glass"
+  }
+}

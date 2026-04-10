@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/16xtile",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/holiday/stocking_green_stuffed"
+	}
+}

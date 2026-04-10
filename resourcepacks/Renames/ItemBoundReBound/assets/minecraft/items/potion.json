@@ -1,0 +1,328 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [ {
+				"when": "Boba",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/boba",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Daiquiri",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/daiquiri",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Energy Drink",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/edrink",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Eggnog",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/eggnog",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Juice",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/juice",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Kombucha",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/kombucha",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Margarita",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/margarita",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Martini",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/martini",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Shot",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/shot",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Slushy",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/slushy",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Soda",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/soda",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Wine",
+				"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/potion/wine",
+					"tints": [ {
+						"type": "minecraft:potion",
+						"default": -13083194 } ]
+				}
+		},
+		{
+				"when": "Candy",
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:component",
+					"component": "minecraft:potion_contents",
+					"cases": [ {
+						"when": [ "minecraft:fire_resistance", "minecraft:long_fire_resistance" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_fireresistance"
+						}
+					},
+					{
+						"when": "minecraft:harming",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_harming"
+						}
+					},
+					{
+						"when": "minecraft:healing",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_healing"
+						}
+					},
+					{
+						"when": [ "minecraft:invisibility", "minecraft:long_invisibility" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_invis"
+						}
+					},
+					{
+						"when": [ "minecraft:leaping", "minecraft:long_leaping" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_leaping"
+						}
+					},
+					{
+						"when": "minecraft:luck",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_luck"
+						}
+					},
+					{
+						"when": [ "minecraft:night_vision", "minecraft:long_night_vision" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_nightvision"
+						}
+					},
+					{
+						"when": [ "minecraft:poison", "minecraft:long_poison" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_poison"
+						}
+					},
+					{
+						"when": [ "minecraft:regeneration", "minecraft:long_regeneration" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_regen"
+						}
+					},
+					{
+						"when": [ "minecraft:slow_falling", "minecraft:long_slow_falling" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_slowfall"
+						}
+					},
+					{
+						"when": [ "minecraft:slowness", "minecraft:long_slowness" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_slowness"
+						}
+					},
+					{
+						"when": [ "minecraft:strength", "minecraft:long_strength" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_strength"
+						}
+					},
+					{
+						"when": [ "minecraft:swiftness", "minecraft:long_swiftness" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_swiftness"
+						}
+					},
+					{
+						"when": [ "minecraft:turtle_master", "minecraft:long_turtle_master" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_turtlemaster"
+						}
+					},
+					{
+						"when": [ "minecraft:water_breathing", "minecraft:long_water_breathing" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_waterbreathing"
+						}
+					},
+					{
+						"when": [ "minecraft:weakness", "minecraft:long_weakness" ],
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candy_weakness"
+						}
+					},
+					{
+						"when": "minecraft:strong_harming",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_harming"
+						}
+					},
+					{
+						"when": "minecraft:strong_healing",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_healing"
+						}
+					},
+					{
+						"when": "minecraft:strong_leaping",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_leaping"
+						}
+					},
+					{
+						"when": "minecraft:strong_poison",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_poison"
+						}
+					},
+					{
+						"when": "minecraft:strong_regeneration",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_regen"
+						}
+					},
+					{
+						"when": "minecraft:strong_slowness",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_slowness"
+						}
+					},
+					{
+						"when": "minecraft:strong_strength",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_strength"
+						}
+					},
+					{
+						"when": "minecraft:strong_swiftness",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_swiftness"
+						}
+					},
+					{
+						"when": "minecraft:strong_turtle_master",
+						"model": {
+							"type": "minecraft:model",
+							"model": "itembound:item/potion/candys_turtlemaster"
+						}
+					}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/potion",
+						"tints": [ {
+							"type": "minecraft:potion",
+							"default": -13083194
+							} ]
+					}
+				}
+		}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/potion",
+			"tints": [ {
+				"type": "minecraft:potion",
+				"default": -13083194
+				} ]
+		}
+	}
+}

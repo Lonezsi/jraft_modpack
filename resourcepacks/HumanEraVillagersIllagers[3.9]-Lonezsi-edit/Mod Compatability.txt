@@ -1,0 +1,122 @@
+The mod compatability is mostly for newer versions above 1.14,
+mod compatability for 1.8.9 and 1.12.2 will need some planning
+cuz theres no etf and emf mod version for 1.8.9 and 1.12.2
+
+- Archers
+- Atmospheric
+- Buzzier Bees
+- Charm
+- Ice&Fire
+- Immersive Engineering
+- Jewelry
+- King Villager
+- More Villagers
+- Paladins
+- Rogues
+- Sawmill
+- Wizards
+
+- Ars Nouveau
+- Beach Party
+- Beautify
+- Blue Skies
+- Chefs Delight
+- Domestication Innovation
+- HWG
+- MCA Reborn
+- Meadow
+- Miskatonic Mysteries
+- MNA
+
+- Lightman's Currency
+- More Mob Variants (Needs interesting zombie concept to complete)
+- Takes a Pillage (except skirmisher for some reason)
+- Villagers Plus
+- Vinery
+- Guard Villagers
+
+- Bakery
+
+- Cannibalism Conundrum
+- Better Archaeology
+- Illager Invasion
+- Brewery
+
+- Variants & Ventures
+
+- Cloud Storage
+- Cobblemon
+- Dynamic Village
+- Moster Hunter Villager
+- Quark
+- Recruits
+- Supplementaries
+- Savage & Ravage
+
+- Illagers Wear Armor (Still Unavailable for Freshani Activator due to complications)
+
+- Scorched Guns
+
+- Villgers In Buckets
+- Applied Energetics 2
+- AE2: Better Villagers
+- The Conjurer
+- Garbage Collector Villager
+- Mushroom Villager Trader
+- Tough As Nails
+- Vampirism
+- Wares
+- Illagers in Disguises
+
+- Biomes We've Gone
+- Biomes O Plenty
+- Biomes You'll Go
+- Regions Unexplored
+- Workers (Professions dont work unfortunately :(  )
+- Create: Better Villagers
+
+- Hunter's Retur
+- Enchanter Mob
+- Bagusmob
+- Tax Ocean Villagers
+- Point Blank
+- Iron's Jewelry
+- The Pillager Legion (Only Male, Mod does not have extractable model)
+
+- Easel Does It
+- Silent Gear
+- Nature Spirit
+- Pirates
+
+- Realm RPG Quests
+
+- Tax' Biome Trader
+- Villager Enchanter
+- Deep Dark Trader
+- Bakery Villager Trader
+- Leaf Villager
+- Music Villager
+- Nether Villager Trader
+- Ocean Trader
+- Illager Trader
+- Spooky Music Trader
+- DJ Villager
+- Biomes Weve Gone
+- ChangShengJue (Part 1)
+
+- Summoner Scrolls
+- Lumberjack Villagers
+- Still Life
+- Hunter Villager Trader
+
+
+
+
+Unfortuntely impossible for mod compats:
+- Epic Fight (This is a tragedy for Human Era: Villagers & Illagers, this is a sad era for America.... and the whole world, truly sad, this is very unfortunate)
+- Miner Villager
+- Bulwark from Immersive Engineering
+- Skirmisher from It Takes A Pillage
+- Weathered Salesman from Farming for Blockheads mod
+- Cobblemerchant
+- Wandering Trader from Alex's Mobs mod

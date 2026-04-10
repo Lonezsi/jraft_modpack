@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bvb/katana",
+	"textures": {
+		"0": "minecraft:item/bvb/template_katana",
+		"particle": "minecraft:item/bvb/template_katana"
+  }
+}

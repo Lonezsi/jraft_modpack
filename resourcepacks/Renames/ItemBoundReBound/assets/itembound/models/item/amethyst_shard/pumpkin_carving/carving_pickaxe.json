@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/16xtile",
+  "textures": {
+    "texture": "itembound:item/amethyst_shard/pumpkin_carving/carving_pickaxe"
+  }
+}

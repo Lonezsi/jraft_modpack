@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/range_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/range/range_white"
+	}
+}

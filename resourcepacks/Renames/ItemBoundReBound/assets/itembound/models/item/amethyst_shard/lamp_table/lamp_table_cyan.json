@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/lamp_table_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/lamp_table/lamp_table_cyan"
+	}
+}

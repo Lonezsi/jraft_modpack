@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/coffin_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/coffin/coffin_mangrove"
+	}
+}

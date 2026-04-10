@@ -1,0 +1,7 @@
+{
+  "parent": "itembound:sources/16xitem",
+  "textures": {
+    "texture": "itembound:item/flint_and_steel/lighter_lime",
+	"particle": "itembound:item/flint_and_steel/lighter_lime"
+  }
+}

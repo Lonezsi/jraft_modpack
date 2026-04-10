@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/16xspinner",
+  "textures": {
+    "texture": "itembound:item/fishing_rod/spinner_red_cast"
+  }
+}

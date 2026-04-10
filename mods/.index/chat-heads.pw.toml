@@ -1,0 +1,17 @@
+filename = 'chat_heads-1.2.1-fabric-1.21.11.jar'
+name = 'Chat Heads'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.21.11] 1.2.1'
+
+[download]
+hash = '17ba8126f1953fc9eb059ca8c82b5b72b3f907d3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7585260
+project-id = 407206

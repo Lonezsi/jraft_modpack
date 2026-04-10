@@ -1,0 +1,124 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [ {
+			"when": "Blue Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_blue"
+				}
+		},
+		{
+			"when": "Brown Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_brown"
+				}
+		},
+		{
+			"when": "Cyan Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_cyan"
+				}
+		},
+		{
+			"when": "Green Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_green"
+				}
+		},
+		{
+			"when": "Light Blue Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_lblue"
+				}
+		},
+		{
+			"when": "Lime Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_lime"
+				}
+		},
+		{
+			"when": "Magenta Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_magenta"
+				}
+		},
+		{
+			"when": "Orange Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_orange"
+				}
+		},
+		{
+			"when": "Pink Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_pink"
+				}
+		},
+		{
+			"when": "Purple Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_purple"
+				}
+		},
+		{
+			"when": "Red Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_red"
+				}
+		},
+		{
+			"when": "Yellow Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_yellow"
+				}
+		},
+		{
+			"when": "White Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_white"
+				}
+		},
+		{
+			"when": [ "Gray Lighter", "Grey Lighter" ],
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_gray"
+				}
+		},
+		{
+			"when": [ "Light Gray Lighter", "Light Grey Lighter" ],
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_lgray"
+				}
+		},
+		{
+			"when": "Black Lighter",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/flint_and_steel/lighter_black"
+				}
+		}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/flint_and_steel"
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/sofa_corner_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/sofa/sofa_green"
+	}
+}

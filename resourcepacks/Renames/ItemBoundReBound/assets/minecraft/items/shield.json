@@ -1,0 +1,761 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [ {
+			"when": "Diamond Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_diamond"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_diamond_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Golden Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_golden"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_golden_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Iron Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_iron"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_iron_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Netherite Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_netherite"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_netherite_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Acacia Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_acacia"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_acacia_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Birch Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_birch"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_birch_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Crimson Stem Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_stem_crimson"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_stem_crimson_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Cherry Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_cherry"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_cherry_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Dark Oak Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_dark_oak"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_dark_oak_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Jungle Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_jungle"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_jungle_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Mangrove Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_mangrove"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_mangrove_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Oak Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_oak"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_oak_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Pale Oak Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_pale_oak"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_pale_oak_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Spruce Log Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_spruce"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_log_spruce_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Warped Stem Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_stem_warped"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_stem_warped_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Black Bodyboard",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_black"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_black_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Blue Bodyboard",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_blue"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_blue_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Green Bodyboard",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_green"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_green_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Pink Bodyboard",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_pink"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_pink_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Purple Bodyboard",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_purple"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_purple_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Red Bodyboard",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_red"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_red_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Yellow Bodyboard",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_yellow"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_bodyboard_yellow_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Agender Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_agender"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_agender_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Ally Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_ally"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_ally_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Androgynous Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_androgynous"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_androgynous_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Aromantic Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_aromantic"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_aromantic_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Asexual Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_asexual"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_asexual_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Bisexual Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_bisexual"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_bisexual_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Demiboy Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demiboy"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demiboy_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Demifluid Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demifluid"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demifluid_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Demigirl Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demigirl"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demigirl_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Deminonbinary Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_deminonbinary"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_deminonbinary_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Demiromantic Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demiromantic"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demiromantic_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Demisexual Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demisexual"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_demisexual_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Gay Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_gay"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_gay_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Gay MLM Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_gay_mlm"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_gay_mlm_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Genderfluid Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_genderfluid"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_genderfluid_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Genderqueer Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_genderqueer"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_genderqueer_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Intersex Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_intersex"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_intersex_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Lesbian Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_lesbian"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_lesbian_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Neutrois Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_neutrois"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_neutrois_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Nonbinary Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_nonbinary"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_nonbinary_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Polysexual Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_polysexual"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_polysexual_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Pansexual Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_pansexual"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_pansexual_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Transgender Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_transgender"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_transgender_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Two Spirit Pride Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_two_spirit"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/pride_shield_two_spirit_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Copper Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_copper"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_copper_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Rose Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_rose"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_rose_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		},
+		{
+			"when": "Hylian Shield",
+			"model": {
+				"type": "minecraft:condition",
+				"on_false": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_hylian"
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shield/shield_hylian_blocking"
+				},
+				"property": "minecraft:using_item"
+			}
+		}
+		],
+		"fallback": {
+			"type": "minecraft:condition",
+			"on_false": {
+				"type": "minecraft:special",
+				"base": "minecraft:item/shield",
+				"model": {
+					"type": "minecraft:shield"
+				}
+			},
+			"on_true": {
+				"type": "minecraft:special",
+				"base": "minecraft:item/shield_blocking",
+				"model": {
+					"type": "minecraft:shield"
+				}
+			},
+			"property": "minecraft:using_item"
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/16xitem",
+  "textures": {
+    "texture": "itembound:item/food/savory/burger_beef"
+  }
+}

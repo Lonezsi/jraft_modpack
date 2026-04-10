@@ -1,0 +1,7 @@
+{
+	"parent": "itembound:sources/bedframe_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/bedframe/bedframe_cherry",
+		"particle": "itembound:item/amethyst_shard/bedframe/bedframe_cherry"
+	}
+}

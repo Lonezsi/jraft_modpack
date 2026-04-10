@@ -1,0 +1,17 @@
+filename = 'variants-cit-5.1.0+1.21.9.jar'
+name = 'Variants-CIT'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.11', '1.21.11', '1.21.9', '1.21.9' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '5.1.0+1.21.9'
+
+[download]
+hash = 'ace45580f81e25ba997c91b405c79761ecf7494df78a6c28e2e5914f22b95ca80b96ae6de80442096ae392f5059bc48cc2f8cbbaf8fe4ae9de9d44174bdbe401'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jURjbCaq/versions/MBN9hIUa/variants-cit-5.1.0%2B1.21.9.jar'
+
+[update.modrinth]
+mod-id = 'jURjbCaq'
+version = 'MBN9hIUa'

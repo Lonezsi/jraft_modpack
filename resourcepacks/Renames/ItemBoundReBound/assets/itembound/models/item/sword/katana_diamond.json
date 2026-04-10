@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/32xhandheld",
+  "textures": {
+    "texture": "itembound:item/sword/katana_diamond"
+  }
+}

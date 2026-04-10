@@ -1,0 +1,3064 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [ {
+			"when": "Creeper Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_creeper"
+			}
+		},
+		{
+			"when": "Derp Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_derp"
+			}
+		},
+		{
+			"when": "Fang Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_fang"
+			}
+		},
+		{
+			"when": "Pickaxe Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_pickaxe"
+			}
+		},
+		{
+			"when": "Sad Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_sad"
+			}
+		},
+		{
+			"when": "Shulker Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_shulker"
+			}
+		},
+		{
+			"when": "Sinister Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_sinister"
+			}
+		},
+		{
+			"when": "Slime Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_slime"
+			}
+		},
+		{
+			"when": "Smile Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_smile"
+			}
+		},
+		{
+			"when": "Steve Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_steve"
+			}
+		},
+		{
+			"when": "Villager Pumpkin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pumpkin_carving/carving_villager"
+			}
+		},
+		{
+			"when": "Black Monitor",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/monitor/monitor_black"
+			}
+		},
+		{
+			"when": "White Monitor",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/monitor/monitor_white"
+			}
+		},
+		{
+			"when": "Black Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_black"
+			}
+		},
+		{
+			"when": "Blue Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_blue"
+			}
+		},
+		{
+			"when": "Brown Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_brown"
+			}
+		},
+		{
+			"when": "Cyan Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Desktop", "Grey Desktop" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_gray"
+			}
+		},
+		{
+			"when": "Green Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_green"
+			}
+		},
+		{
+			"when": "Light Blue Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Desktop", "Light Grey Desktop" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_lgray"
+			}
+		},
+		{
+			"when": "Lime Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_lime"
+			}
+		},
+		{
+			"when": "Magenta Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_magenta"
+			}
+		},
+		{
+			"when": "Orange Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_orange"
+			}
+		},
+		{
+			"when": "Pink Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_pink"
+			}
+		},
+		{
+			"when": "Purple Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_purple"
+			}
+		},
+		{
+			"when": "Red Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_red"
+			}
+		},
+		{
+			"when": "White Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_white"
+			}
+		},
+		{
+			"when": "Yellow Desktop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desktop/desktop_yellow"
+			}
+		},
+		{
+			"when": "Black Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_black"
+			}
+		},
+		{
+			"when": "Blue Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_blue"
+			}
+		},
+		{
+			"when": "Brown Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_brown"
+			}
+		},
+		{
+			"when": "Cyan Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Laptop", "Grey Laptop" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_gray"
+			}
+		},
+		{
+			"when": "Green Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_green"
+			}
+		},
+		{
+			"when": "Light Blue Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Laptop", "Light Grey Laptop" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_lgray"
+			}
+		},
+		{
+			"when": "Lime Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_lime"
+			}
+		},
+		{
+			"when": "Magenta Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_magenta"
+			}
+		},
+		{
+			"when": "Orange Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_orange"
+			}
+		},
+		{
+			"when": "Pink Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_pink"
+			}
+		},
+		{
+			"when": "Purple Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_purple"
+			}
+		},
+		{
+			"when": "Red Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_red"
+			}
+		},
+		{
+			"when": "White Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_white"
+			}
+		},
+		{
+			"when": "Yellow Laptop",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/laptop/laptop_yellow"
+			}
+		},
+		{
+			"when": "Black Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_black"
+			}
+		},
+		{
+			"when": "Blue Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_blue"
+			}
+		},
+		{
+			"when": "Brown Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_brown"
+			}
+		},
+		{
+			"when": "Cyan Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Portal", "Grey Portal" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_gray"
+			}
+		},
+		{
+			"when": "Green Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_green"
+			}
+		},
+		{
+			"when": "Light Blue Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Portal", "Light Grey Portal" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_lgray"
+			}
+		},
+		{
+			"when": "Lime Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_lime"
+			}
+		},
+		{
+			"when": "Magenta Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_magenta"
+			}
+		},
+		{
+			"when": "Orange Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_orange"
+			}
+		},
+		{
+			"when": "Pink Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_pink"
+			}
+		},
+		{
+			"when": "Purple Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_purple"
+			}
+		},
+		{
+			"when": "Red Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_red"
+			}
+		},
+		{
+			"when": "White Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_white"
+			}
+		},
+		{
+			"when": "Yellow Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_yellow"
+			}
+		},
+		{
+			"when": "Rainbow Portal",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/portal/portal_rainbow"
+			}
+		},
+		{
+			"when": "Black Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_black"
+			}
+		},
+		{
+			"when": "Blue Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_blue"
+			}
+		},
+		{
+			"when": "Brown Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_brown"
+			}
+		},
+		{
+			"when": "Cyan Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Table Lamp", "Grey Table Lamp" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_gray"
+			}
+		},
+		{
+			"when": "Green Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_green"
+			}
+		},
+		{
+			"when": "Light Blue Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Table Lamp", "Light Grey Table Lamp" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_lgray"
+			}
+		},
+		{
+			"when": "Lime Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_lime"
+			}
+		},
+		{
+			"when": "Magenta Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_magenta"
+			}
+		},
+		{
+			"when": "Orange Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_orange"
+			}
+		},
+		{
+			"when": "Pink Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_pink"
+			}
+		},
+		{
+			"when": "Purple Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_purple"
+			}
+		},
+		{
+			"when": "Red Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_red"
+			}
+		},
+		{
+			"when": "White Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_white"
+			}
+		},
+		{
+			"when": "Yellow Table Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_table/lamp_table_yellow"
+			}
+		},
+		{
+			"when": "Black Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_black"
+			}
+		},
+		{
+			"when": "Blue Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_blue"
+			}
+		},
+		{
+			"when": "Brown Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_brown"
+			}
+		},
+		{
+			"when": "Cyan Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Tall Lamp", "Grey Tall Lamp" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_gray"
+			}
+		},
+		{
+			"when": "Green Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_green"
+			}
+		},
+		{
+			"when": "Light Blue Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Tall Lamp", "Light Grey Tall Lamp" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_lgray"
+			}
+		},
+		{
+			"when": "Lime Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_lime"
+			}
+		},
+		{
+			"when": "Magenta Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_magenta"
+			}
+		},
+		{
+			"when": "Orange Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_orange"
+			}
+		},
+		{
+			"when": "Pink Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_pink"
+			}
+		},
+		{
+			"when": "Purple Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_purple"
+			}
+		},
+		{
+			"when": "Red Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_red"
+			}
+		},
+		{
+			"when": "White Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_white"
+			}
+		},
+		{
+			"when": "Yellow Tall Lamp",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_yellow"
+			}
+		},
+		{
+			"when": "Black Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_black"
+			}
+		},
+		{
+			"when": "Blue Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_blue"
+			}
+		},
+		{
+			"when": "Brown Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_brown"
+			}
+		},
+		{
+			"when": "Cyan Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Paper Lantern", "Grey Paper Lantern" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_gray"
+			}
+		},
+		{
+			"when": "Green Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_green"
+			}
+		},
+		{
+			"when": "Light Blue Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Paper Lantern", "Light Grey Paper Lantern" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_lgray"
+			}
+		},
+		{
+			"when": "Lime Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_lime"
+			}
+		},
+		{
+			"when": "Magenta Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_magenta"
+			}
+		},
+		{
+			"when": "Orange Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_orange"
+			}
+		},
+		{
+			"when": "Pink Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_pink"
+			}
+		},
+		{
+			"when": "Purple Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_purple"
+			}
+		},
+		{
+			"when": "Red Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_red"
+			}
+		},
+		{
+			"when": "White Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_white"
+			}
+		},
+		{
+			"when": "Yellow Paper Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern_paper/lantern_paper_yellow"
+			}
+		},
+		{
+			"when": "Blue String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_blue"
+			}
+		},
+		{
+			"when": "Cyan String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_cyan"
+			}
+		},
+		{
+			"when": "Green String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_green"
+			}
+		},
+		{
+			"when": "Light Blue String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_lblue"
+			}
+		},
+		{
+			"when": "Lime String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_lime"
+			}
+		},
+		{
+			"when": "Magenta String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_magenta"
+			}
+		},
+		{
+			"when": "Orange String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_orange"
+			}
+		},
+		{
+			"when": "Pink String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_pink"
+			}
+		},
+		{
+			"when": "Purple String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_purple"
+			}
+		},
+		{
+			"when": "Red String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_red"
+			}
+		},
+		{
+			"when": "White String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_white"
+			}
+		},
+		{
+			"when": "Yellow String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_yellow"
+			}
+		},
+		{
+			"when": "Rainbow String Lights",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lights_string/lights_string_rainbow"
+			}
+		},
+		{
+			"when": "Black Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_black"
+			}
+		},
+		{
+			"when": "Blue Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_blue"
+			}
+		},
+		{
+			"when": "Brown Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_brown"
+			}
+		},
+		{
+			"when": "Cyan Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Sofa Bench", "Grey Sofa Bench" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_gray"
+			}
+		},
+		{
+			"when": "Green Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_green"
+			}
+		},
+		{
+			"when": "Light Blue Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Sofa Bench", "Light Grey Sofa Bench" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_lgray"
+			}
+		},
+		{
+			"when": "Lime Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_lime"
+			}
+		},
+		{
+			"when": "Magenta Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_magenta"
+			}
+		},
+		{
+			"when": "Orange Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_orange"
+			}
+		},
+		{
+			"when": "Pink Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_pink"
+			}
+		},
+		{
+			"when": "Purple Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_purple"
+			}
+		},
+		{
+			"when": "Red Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_red"
+			}
+		},
+		{
+			"when": "White Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_white"
+			}
+		},
+		{
+			"when": "Yellow Sofa Bench",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_bench_yellow"
+			}
+		},
+		{
+			"when": "Black Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_black"
+			}
+		},
+		{
+			"when": "Blue Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_blue"
+			}
+		},
+		{
+			"when": "Brown Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_brown"
+			}
+		},
+		{
+			"when": "Cyan Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Sofa Corner", "Grey Sofa Corner" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_gray"
+			}
+		},
+		{
+			"when": "Green Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_green"
+			}
+		},
+		{
+			"when": "Light Blue Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Sofa Corner", "Light Grey Sofa Corner" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_lgray"
+			}
+		},
+		{
+			"when": "Lime Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_lime"
+			}
+		},
+		{
+			"when": "Magenta Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_magenta"
+			}
+		},
+		{
+			"when": "Orange Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_orange"
+			}
+		},
+		{
+			"when": "Pink Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_pink"
+			}
+		},
+		{
+			"when": "Purple Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_purple"
+			}
+		},
+		{
+			"when": "Red Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_red"
+			}
+		},
+		{
+			"when": "White Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_white"
+			}
+		},
+		{
+			"when": "Yellow Sofa Corner",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_corner_yellow"
+			}
+		},
+		{
+			"when": "Black Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_black"
+			}
+		},
+		{
+			"when": "Blue Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_blue"
+			}
+		},
+		{
+			"when": "Brown Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_brown"
+			}
+		},
+		{
+			"when": "Cyan Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Sofa Left", "Grey Sofa Left" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_gray"
+			}
+		},
+		{
+			"when": "Green Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_green"
+			}
+		},
+		{
+			"when": "Light Blue Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Sofa Left", "Light Grey Sofa Left" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_lgray"
+			}
+		},
+		{
+			"when": "Lime Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_lime"
+			}
+		},
+		{
+			"when": "Magenta Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_magenta"
+			}
+		},
+		{
+			"when": "Orange Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_orange"
+			}
+		},
+		{
+			"when": "Pink Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_pink"
+			}
+		},
+		{
+			"when": "Purple Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_purple"
+			}
+		},
+		{
+			"when": "Red Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_red"
+			}
+		},
+		{
+			"when": "White Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_white"
+			}
+		},
+		{
+			"when": "Yellow Sofa Left",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_left_yellow"
+			}
+		},
+		{
+			"when": "Black Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_black"
+			}
+		},
+		{
+			"when": "Blue Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_blue"
+			}
+		},
+		{
+			"when": "Brown Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_brown"
+			}
+		},
+		{
+			"when": "Cyan Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Sofa Middle", "Grey Sofa Middle" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_gray"
+			}
+		},
+		{
+			"when": "Green Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_green"
+			}
+		},
+		{
+			"when": "Light Blue Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Sofa Middle", "Light Grey Sofa Middle" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_lgray"
+			}
+		},
+		{
+			"when": "Lime Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_lime"
+			}
+		},
+		{
+			"when": "Magenta Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_magenta"
+			}
+		},
+		{
+			"when": "Orange Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_orange"
+			}
+		},
+		{
+			"when": "Pink Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_pink"
+			}
+		},
+		{
+			"when": "Purple Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_purple"
+			}
+		},
+		{
+			"when": "Red Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_red"
+			}
+		},
+		{
+			"when": "White Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_white"
+			}
+		},
+		{
+			"when": "Yellow Sofa Middle",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_middle_yellow"
+			}
+		},
+		{
+			"when": "Black Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_black"
+			}
+		},
+		{
+			"when": "Blue Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_blue"
+			}
+		},
+		{
+			"when": "Brown Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_brown"
+			}
+		},
+		{
+			"when": "Cyan Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Sofa Right", "Grey Sofa Right" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_gray"
+			}
+		},
+		{
+			"when": "Green Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_green"
+			}
+		},
+		{
+			"when": "Light Blue Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Sofa Right", "Light Grey Sofa Right" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_lgray"
+			}
+		},
+		{
+			"when": "Lime Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_lime"
+			}
+		},
+		{
+			"when": "Magenta Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_magenta"
+			}
+		},
+		{
+			"when": "Orange Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_orange"
+			}
+		},
+		{
+			"when": "Pink Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_pink"
+			}
+		},
+		{
+			"when": "Purple Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_purple"
+			}
+		},
+		{
+			"when": "Red Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_red"
+			}
+		},
+		{
+			"when": "White Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_white"
+			}
+		},
+		{
+			"when": "Yellow Sofa Right",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_right_yellow"
+			}
+		},
+		{
+			"when": "Black Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_black"
+			}
+		},
+		{
+			"when": "Blue Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_blue"
+			}
+		},
+		{
+			"when": "Brown Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_brown"
+			}
+		},
+		{
+			"when": "Cyan Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Sofa Single", "Grey Sofa Single" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_gray"
+			}
+		},
+		{
+			"when": "Green Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_green"
+			}
+		},
+		{
+			"when": "Light Blue Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Sofa Single", "Light Grey Sofa Single" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_lgray"
+			}
+		},
+		{
+			"when": "Lime Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_lime"
+			}
+		},
+		{
+			"when": "Magenta Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_magenta"
+			}
+		},
+		{
+			"when": "Orange Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_orange"
+			}
+		},
+		{
+			"when": "Pink Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_pink"
+			}
+		},
+		{
+			"when": "Purple Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_purple"
+			}
+		},
+		{
+			"when": "Red Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_red"
+			}
+		},
+		{
+			"when": "White Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_white"
+			}
+		},
+		{
+			"when": "Yellow Sofa Single",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sofa/sofa_single_yellow"
+			}
+		},
+		{
+			"when": "Black Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_black"
+			}
+		},
+		{
+			"when": "Blue Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_blue"
+			}
+		},
+		{
+			"when": "Brown Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_brown"
+			}
+		},
+		{
+			"when": "Cyan Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_cyan"
+			}
+		},
+		{
+			"when": [ "Gray Range", "Grey Range" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_gray"
+			}
+		},
+		{
+			"when": "Green Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_green"
+			}
+		},
+		{
+			"when": "Light Blue Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_lblue"
+			}
+		},
+		{
+			"when": [ "Light Gray Range", "Light Grey Range" ],
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_lgray"
+			}
+		},
+		{
+			"when": "Lime Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_lime"
+			}
+		},
+		{
+			"when": "Magenta Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_magenta"
+			}
+		},
+		{
+			"when": "Orange Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_orange"
+			}
+		},
+		{
+			"when": "Pink Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_pink"
+			}
+		},
+		{
+			"when": "Purple Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_purple"
+			}
+		},
+		{
+			"when": "Red Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_red"
+			}
+		},
+		{
+			"when": "White Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_white"
+			}
+		},
+		{
+			"when": "Yellow Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_yellow"
+			}
+		},
+		{
+			"when": "Diamond Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_diamond"
+			}
+		},
+		{
+			"when": "Golden Range",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/range/range_golden"
+			}
+		},
+		{
+			"when": "Acacia Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_bamboo"
+			}
+		},
+		{
+			"when": "Birch Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_birch"
+			}
+		},
+		{
+			"when": "Cherry Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_cherry"
+			}
+		},
+		{
+			"when": "Crimson Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_mangrove"
+			}
+		},
+		{
+			"when": "Oak Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_spruce"
+			}
+		},
+		{
+			"when": "Warped Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe/bedframe_warped"
+			}
+		},
+		{
+			"when": "Acacia Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_bamboo"
+			}
+		},
+		{
+			"when": "Birch Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_birch"
+			}
+		},
+		{
+			"when": "Cherry Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_cherry"
+			}
+		},
+		{
+			"when": "Crimson Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_mangrove"
+			}
+		},
+		{
+			"when": "Oak Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_spruce"
+			}
+		},
+		{
+			"when": "Warped Double Bed Frame",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/bedframe_double/bedframe_double_warped"
+			}
+		},
+		{
+			"when": "Acacia Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_bamboo"
+			}
+		},
+		{
+			"when": "Birch Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_birch"
+			}
+		},
+		{
+			"when": "Cherry Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_cherry"
+			}
+		},
+		{
+			"when": "Crimson Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_mangrove"
+			}
+		},
+		{
+			"when": "Oak Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_spruce"
+			}
+		},
+		{
+			"when": "Warped Coffin",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/coffin/coffin_warped"
+			}
+		},
+		{
+			"when": "Acacia Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_bamboo"
+			}
+		},
+		{
+			"when": "Birch Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_birch"
+			}
+		},
+		{
+			"when": "Cherry Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_cherry"
+			}
+		},
+		{
+			"when": "Crimson Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_mangrove"
+			}
+		},
+		{
+			"when": "Oak Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_spruce"
+			}
+		},
+		{
+			"when": "Warped Desk",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/desk/desk_warped"
+			}
+		},
+		{
+			"when": "Acacia Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_bamboo"
+			}
+		},
+		{
+			"when": "Birch Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_birch"
+			}
+		},
+		{
+			"when": "Cherry Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_cherry"
+			}
+		},
+		{
+			"when": "Crimson Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_mangrove"
+			}
+		},
+		{
+			"when": "Oak Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_spruce"
+			}
+		},
+		{
+			"when": "Warped Dresser",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/dresser/dresser_warped"
+			}
+		},
+		{
+			"when": "Acacia Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_bamboo"
+			}
+		},
+		{
+			"when": "Birch Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_birch"
+			}
+		},
+		{
+			"when": "Cherry Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_cherry"
+			}
+		},
+		{
+			"when": "Crimson Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_mangrove"
+			}
+		},
+		{
+			"when": "Oak Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_spruce"
+			}
+		},
+		{
+			"when": "Warped Nightstand",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/nightstand/nightstand_warped"
+			}
+		},
+		{
+			"when": "Acacia Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_bamboo"
+			}
+		},
+		{
+			"when": "Birch Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_birch"
+			}
+		},
+		{
+			"when": "Cherry Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_cherry"
+			}
+		},
+		{
+			"when": "Crimson Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_mangrove"
+			}
+		},
+		{
+			"when": "Oak Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_spruce"
+			}
+		},
+		{
+			"when": "Warped Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror/mirror_warped"
+			}
+		},
+		{
+			"when": "Acacia Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_bamboo"
+			}
+		},
+		{
+			"when": "Birch Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_birch"
+			}
+		},
+		{
+			"when": "Cherry Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_cherry"
+			}
+		},
+		{
+			"when": "Crimson Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_mangrove"
+			}
+		},
+		{
+			"when": "Oak Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_spruce"
+			}
+		},
+		{
+			"when": "Warped Planter",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/planter/planter_warped"
+			}
+		},
+		{
+			"when": "Diamond Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_diamond"
+			}
+		},
+		{
+			"when": "Golden Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_golden"
+			}
+		},
+		{
+			"when": "Acacia Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_bamboo"
+			}
+		},
+		{
+			"when": "Birch Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_birch"
+			}
+		},
+		{
+			"when": "Cherry Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_cherry"
+			}
+		},
+		{
+			"when": "Crimson Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_mangrove"
+			}
+		},
+		{
+			"when": "Oak Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_spruce"
+			}
+		},
+		{
+			"when": "Warped Sink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/sink/sink_warped"
+			}
+		},
+		{
+			"when": "Acacia Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_bamboo"
+			}
+		},
+		{
+			"when": "Birch Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_birch"
+			}
+		},
+		{
+			"when": "Cherry Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_cherry"
+			}
+		},
+		{
+			"when": "Crimson Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_mangrove"
+			}
+		},
+		{
+			"when": "Oak Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_spruce"
+			}
+		},
+		{
+			"when": "Warped Standing Mirror",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/mirror_standing/mirror_standing_warped"
+			}
+		},
+		{
+			"when": "Black Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_black"
+			}
+		},
+		{
+			"when": "White Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_white"
+			}
+		},
+		{
+			"when": "Diamond Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_diamond"
+			}
+		},
+		{
+			"when": "Golden Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_golden"
+			}
+		},
+		{
+			"when": "Acacia Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_acacia"
+			}
+		},
+		{
+			"when": "Bamboo Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_bamboo"
+			}
+		},
+		{
+			"when": "Birch Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_birch"
+			}
+		},
+		{
+			"when": "Cherry Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_cherry"
+			}
+		},
+		{
+			"when": "Crimson Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_crimson"
+			}
+		},
+		{
+			"when": "Dark Oak Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_dark_oak"
+			}
+		},
+		{
+			"when": "Jungle Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_jungle"
+			}
+		},
+		{
+			"when": "Mangrove Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_mangrove"
+			}
+		},
+		{
+			"when": "Oak Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_oak"
+			}
+		},
+		{
+			"when": "Pale Oak Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_pale_oak"
+			}
+		},
+		{
+			"when": "Spruce Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_spruce"
+			}
+		},
+		{
+			"when": "Warped Toilet",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/toilet/toilet_warped"
+			}
+		},
+		{
+			"when": "Andesite Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_andesite"
+			}
+		},
+		{
+			"when": "Blackstone Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_blackstone"
+			}
+		},
+		{
+			"when": "Cast Iron Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_cast_iron"
+			}
+		},
+		{
+			"when": "Diorite Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_diorite"
+			}
+		},
+		{
+			"when": "End Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_end"
+			}
+		},
+		{
+			"when": "Granite Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_granite"
+			}
+		},
+		{
+			"when": "Obsidian Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_obsidian"
+			}
+		},
+		{
+			"when": "Quartz Lantern",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/lantern/lantern_quartz"
+			}
+		},
+		{
+			"when": "1000 Items Statue",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/statue/statue_itembound"
+			}
+		},
+		{
+			"when": "Gold Star",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/holiday/gold_star"
+			}
+		},
+		{
+			"when": "Green Stocking",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/holiday/stocking_green"
+			}
+		},
+		{
+			"when": "Stuffed Green Stocking",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/holiday/stocking_green_stuffed"
+			}
+		},
+		{
+			"when": "Red Stocking",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/holiday/stocking_red"
+			}
+		},
+		{
+			"when": "Stuffed Red Stocking",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/holiday/stocking_red_stuffed"
+			}
+		},
+		{
+			"when": "Slumped Skeleton",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/skeleton/skeleton_slumped"
+			}
+		},
+		{
+			"when": "Slumped Wither Skeleton",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/skeleton/skeleton_wither_slumped"
+			}
+		},
+		{
+			"when": "Large Andesite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_large_andesite"
+			}
+		},
+		{
+			"when": "Large Blackstone Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_large_blackstone"
+			}
+		},
+		{
+			"when": "Large Deepslate Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_large_deepslate"
+			}
+		},
+		{
+			"when": "Large Diorite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_large_diorite"
+			}
+		},
+		{
+			"when": "Large Granite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_large_granite"
+			}
+		},
+		{
+			"when": "Large Stone Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_large_stone"
+			}
+		},
+		{
+			"when": "Medium Andesite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_medium_andesite"
+			}
+		},
+		{
+			"when": "Medium Blackstone Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_medium_blackstone"
+			}
+		},
+		{
+			"when": "Medium Deepslate Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_medium_deepslate"
+			}
+		},
+		{
+			"when": "Medium Diorite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_medium_diorite"
+			}
+		},
+		{
+			"when": "Medium Granite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_medium_granite"
+			}
+		},
+		{
+			"when": "Medium Stone Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_medium_stone"
+			}
+		},
+		{
+			"when": "Small Andesite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_small_andesite"
+			}
+		},
+		{
+			"when": "Small Blackstone Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_small_blackstone"
+			}
+		},
+		{
+			"when": "Small Deepslate Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_small_deepslate"
+			}
+		},
+		{
+			"when": "Small Diorite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_small_diorite"
+			}
+		},
+		{
+			"when": "Small Granite Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_small_granite"
+			}
+		},
+		{
+			"when": "Small Stone Tombstone",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tombstone/tombstone_small_stone"
+			}
+		},
+		{
+			"when": "Large TV",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tv/tv_large"
+			}
+		},
+		{
+			"when": "Medium TV",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/tv/tv_medium"
+			}
+		},
+		{
+			"when": "Agender Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_agender"
+			}
+		},
+		{
+			"when": "Ally Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_ally"
+			}
+		},
+		{
+			"when": "Androgynous Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_androgynous"
+			}
+		},
+		{
+			"when": "Aromantic Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_aromantic"
+			}
+		},
+		{
+			"when": "Asexual Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_asexual"
+			}
+		},
+		{
+			"when": "Demiboy Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_demiboy"
+			}
+		},
+		{
+			"when": "Demifluid Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_demifluid"
+			}
+		},
+		{
+			"when": "Demiflux Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_demiflux"
+			}
+		},
+		{
+			"when": "Deminonbinary Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_deminonbinary"
+			}
+		},
+		{
+			"when": "Bisexual Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_bisexual"
+			}
+		},
+		{
+			"when": "Demiromantic Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_demiromantic"
+			}
+		},
+		{
+			"when": "Demisexual Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_demisexual"
+			}
+		},
+		{
+			"when": "Gay Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_gay"
+			}
+		},
+		{
+			"when": "Gay MLM Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_gay_mlm"
+			}
+		},
+		{
+			"when": "Genderfluid Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_genderfluid"
+			}
+		},
+		{
+			"when": "Genderqueer Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_genderqueer"
+			}
+		},
+		{
+			"when": "Lesbian Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_lesbian"
+			}
+		},
+		{
+			"when": "Intersex Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_intersex"
+			}
+		},
+		{
+			"when": "Neutrois Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_neutrois"
+			}
+		},
+		{
+			"when": "Nonbinary Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_nonbinary"
+			}
+		},
+		{
+			"when": "Pansexual Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_pansexual"
+			}
+		},
+		{
+			"when": "Polysexual Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_polysexual"
+			}
+		},
+		{
+			"when": "Transgender Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_transgender"
+			}
+		},
+		{
+			"when": "Two Spirit Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_two_spirit"
+			}
+		},
+		{
+			"when": "Demigirl Pride Flag",
+			"model": {
+				"type": "minecraft:model",
+				"model": "itembound:item/amethyst_shard/pride_flag/pride_flag_demigirl"
+			}
+		}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amethyst_shard"
+		}
+	}
+}

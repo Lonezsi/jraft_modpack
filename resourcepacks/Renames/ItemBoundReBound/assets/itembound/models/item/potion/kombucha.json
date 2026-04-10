@@ -1,0 +1,7 @@
+{
+  "parent": "itembound:sources/16xitem",
+  "textures": {
+    "texture": "itembound:item/potion/kombucha_drink",
+    "overlay": "itembound:item/potion/kombucha_bottle"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/32xitem",
+  "textures": {
+    "texture": "itembound:item/food/other/minithulhu"
+  }
+}

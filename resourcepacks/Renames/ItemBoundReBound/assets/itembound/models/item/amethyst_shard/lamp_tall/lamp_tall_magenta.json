@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/lamp_tall_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/lamp_tall/lamp_tall_magenta"
+	}
+}

@@ -1,0 +1,17 @@
+filename = 'Item Landing Sound [CLIENT, v1.0.2, MC 1.21.11].jar'
+name = 'Item Landing Sound'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0.2'
+
+[download]
+hash = '7862316fdd3295e50e90de677a8258ed54a825ecd69d025dac8d8681aa112cfbda8bd4cae6b084b32f4ac591c8f3f7612cfb94549005fa1a7da4b22936c71d89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T18xfcmD/versions/tRcENU7O/Item Landing Sound %5BCLIENT%2C v1.0.2%2C MC 1.21.11%5D.jar'
+
+[update.modrinth]
+mod-id = 'T18xfcmD'
+version = 'tRcENU7O'

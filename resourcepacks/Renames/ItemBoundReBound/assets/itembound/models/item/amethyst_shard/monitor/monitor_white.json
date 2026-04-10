@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/monitor_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/monitor/monitor_white"
+	}
+}

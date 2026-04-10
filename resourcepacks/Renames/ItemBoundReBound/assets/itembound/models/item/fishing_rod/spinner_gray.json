@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/16xhandheldrod",
+  "textures": {
+    "texture": "itembound:item/fishing_rod/spinner_gray"
+  }
+}

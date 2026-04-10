@@ -1,0 +1,6 @@
+{
+  "parent": "itembound:sources/32xspearinhand",
+  "textures": {
+    "texture": "itembound:item/spear/trident_iron_in_hand"
+  }
+}

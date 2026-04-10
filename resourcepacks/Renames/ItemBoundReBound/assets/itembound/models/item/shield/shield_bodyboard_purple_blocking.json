@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/32xshieldblocking",
+	"textures": {
+		"texture": "itembound:item/shield/shield_bodyboard_purple"
+	}
+}

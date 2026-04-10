@@ -1,0 +1,6 @@
+{
+	"parent": "itembound:sources/desk_base",
+	"textures": {
+		"texture": "itembound:item/amethyst_shard/desk/desk_cherry"
+	}
+}

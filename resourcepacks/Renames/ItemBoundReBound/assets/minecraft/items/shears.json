@@ -1,0 +1,103 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [ {
+			"when": "Razor",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/razor"
+				}
+		},
+		{
+			"when": "Blue Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_blue"
+				}
+		},
+		{
+			"when": "Brown Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_brown"
+				}
+		},
+		{
+			"when": "Cyan Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_cyan"
+				}
+		},
+		{
+			"when": "Green Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_green"
+				}
+		},
+		{
+			"when": "Light Blue Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_lblue"
+				}
+		},
+		{
+			"when": "Lime Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_lime"
+				}
+		},
+		{
+			"when": "Magenta Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_magenta"
+				}
+		},
+		{
+			"when": "Orange Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_orange"
+				}
+		},
+		{
+			"when": "Pink Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_pink"
+				}
+		},
+		{
+			"when": "Purple Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_purple"
+				}
+		},
+		{
+			"when": "Red Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_red"
+				}
+		},
+		{
+			"when": "Yellow Scissors",
+			"model": {
+					"type": "minecraft:model",
+					"model": "itembound:item/shears/scissors_yellow"
+				}
+		}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/shears"
+		}
+	}
+}

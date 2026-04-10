@@ -1,0 +1,17 @@
+filename = 'overlaylib-0.6.0+1.21.11.jar'
+name = 'OverlayLib'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.6.0+1.21.11'
+
+[download]
+hash = '0cf5f0d32ce2ce1122fd648a53dc550a256c485d59e349859d3e8ae8a98ffa9a05207f05e5bd139dc87dba56432cd57bdc1a54aa6370ec1a53025d44d6742a78'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M1B8mLoH/versions/6yYWuM4Z/overlaylib-0.6.0%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'M1B8mLoH'
+version = '6yYWuM4Z'
